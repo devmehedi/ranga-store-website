@@ -17,7 +17,7 @@ body {
   border: none;
 }
 .search-box {
-  width: 350px;
+  width: 350  px;
   border-radius: 5px;
   margin: auto;
   margin-top: 50px;
@@ -42,7 +42,7 @@ body {
 }
 .single-product {
   width: 350px;
-  height: 450px;
+  height: 500px;
   padding: 5px;
   transition: 0.6s;
   background-color:azure;
