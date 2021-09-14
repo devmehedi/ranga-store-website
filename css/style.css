@@ -17,7 +17,7 @@ body {
   border: none;
 }
 .search-box {
-  width: 350px;
+  width: 288px;
   border-radius: 5px;
   margin: auto;
   margin-top: 50px;
@@ -70,6 +70,16 @@ body {
 }
 .cart-main {
   padding-right: 30px;
+}
+#addToCart-btn{
+  background-color: aqua;
+  font-weight: 700;
+}
+#details-btn{
+  background-color: yellow;
+  border-color: aqua;
+  font-weight: 700;
+  color: grey;
 }
 @media only screen and (max-width: 768px) {
   #all-products {
